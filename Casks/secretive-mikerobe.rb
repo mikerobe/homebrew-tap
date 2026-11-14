@@ -9,7 +9,7 @@ cask "secretive-mikerobe" do
 
   # The app checks this fork's releases for updates itself.
   auto_updates true
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   # Its own name, so it can be installed next to the official Secretive (a separate app, with its
   # own bundle ID and keys) while moving from one to the other.
