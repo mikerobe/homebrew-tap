@@ -1,6 +1,6 @@
 cask "secretive-mikerobe" do
-  version "4.0.1"
-  sha256 "cd0cf69eb27191c42a97adcd8690c1f9f7aaf2263e6657d8a32d4fbba252823d"
+  version "4.0.2"
+  sha256 "8c8595aeae023ba0f6647a5410f13ef82c17cd23f5f8024d79950eed86b2fc86"
 
   url "https://github.com/mikerobe/secretive/releases/download/v#{version}/Secretive.zip"
   name "Secretive (mikerobe fork)"
